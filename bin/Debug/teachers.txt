@@ -1,0 +1,9 @@
+256,Nikith,7,A
+257,Niki,8,A
+258,Reddy,7,C
+123,Nikith,7,A
+124,Nikith,7,B
+125,Nikith,7,C
+1,Nikith,7,B
+2,Nikith,7,A
+3,Reddy,7,C
